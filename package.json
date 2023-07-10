@@ -1,0 +1,23 @@
+{
+  "name": "npm-package-test-dkopys",
+  "version": "0.0.2",
+  "description": "my first published npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawidKopys/npm-package-test-dkopys.git"
+  },
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "Dawid Kopys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawidKopys/npm-package-test-dkopys/issues"
+  },
+  "homepage": "https://github.com/DawidKopys/npm-package-test-dkopys#readme"
+}
