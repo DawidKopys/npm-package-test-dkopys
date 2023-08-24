@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/DawidKopys/npm-package-test-dkopys/issues"
   },
-  "homepage": "https://github.com/DawidKopys/npm-package-test-dkopys#readme"
+  "homepage": "https://github.com/DawidKopys/npm-package-test-dkopys#readme",
+  "dependencies": {
+    "consola": "^3.2.3"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
 }
